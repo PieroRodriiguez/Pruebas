@@ -55,7 +55,7 @@ let dolarAjaxCall = () => {
                 // ----------------- SVG ----------------//
                 // --------------------------------------//
 let logoContainer = $('a.navbar-brand');
-let logoUrl = "img/logo.svg";
+let logoUrl = "img/logo-1.png";
 
 let carritoContainer = $('li.carrito');
 let carritoUrl = 'img/shopping-cart-solid.svg';
